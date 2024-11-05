@@ -1,5 +1,5 @@
 ---
-title: "比遊戲還刺激"
+title: "不要點進來！"
 description: 
 date: 2024-10-27T15:32:10Z
 image: 
@@ -10,10 +10,5 @@ comments: true
 draft: false
 ---
 
-228922
-
-491363
-
-498896
 
 ![](comments_disqusjs.png)
